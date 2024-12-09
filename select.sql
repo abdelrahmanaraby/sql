@@ -4,6 +4,5 @@ USE AMITDB;
 SELECT *FROM EMPLOYE;
 -- call - part  data 
 -- SELECT ID ,employe_NAME FROM EMPLOYE;
-
 --- select distinct
 SELECT DISTINCT city FROM EMPLOYE ;
